@@ -25,9 +25,8 @@ set of scenarios, ordered by priority:
 * [ ] Checkout public hosted source code from remote to local.
 * [ ] Commit a modification locally.
 * [ ] Push changes from local to remote.
-* [ ] Detect a merge conflict.
-* [ ] Perform a merge operation.
-* [ ] Perform a rebase operation.
+* [ ] Detect and perform merge operation.
+* [ ] Support authentication on private repository.
 
 During development service should be [Github](https://github.com).
 More services like Gitlab or Bitbucket is not guaranteed to work. 
