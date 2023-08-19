@@ -7,3 +7,10 @@ zig-out/
 
 # For Github-specific configuration
 .github/
+
+# For xmake cache
+.xmake/
+build/
+
+# MacOS cache
+.DS_Store
