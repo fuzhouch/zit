@@ -1,0 +1,9 @@
+# Zig build system files
+zig-cache/
+zig-out/
+
+# Git configurations
+.git/
+
+# For Github-specific configuration
+.github/
